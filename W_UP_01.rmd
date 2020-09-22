@@ -75,3 +75,4 @@ p=.000009421
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+The results show that there is a difference between the average number of pushups for line vs skill players.  The average number of pushups done by line players is statistically different than that of skill players.  Skill players were found to complete a higher number of pushups than line players.  Therefore, we reject the null and accept the alternate hyposhesis. 
